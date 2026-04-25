@@ -1,3 +1,6 @@
+![Rootage Banner](https://rootage.fr/rootage-banner.png)
+
+
 # Bienvenue chez Rootage
 
 **L'INGENIERIE AU SERVICE DE VOS AMBITIONS.**
