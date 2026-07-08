@@ -38,11 +38,11 @@ Rootage builds modern software solutions that bridge complex engineering and ele
 ## Fondateurs / Founders
 
 - **Johan Ledoux** - Co-fondateur & President  
-  LinkedIn: [johanldx](https://www.linkedin.com/in/johanldx/)
+  LinkedIn: [Johan Ledoux](https://www.linkedin.com/in/johanldx/)
 - **Guillaume Constanty** - Co-fondateur & CEO  
-  LinkedIn: [guillaume-constanty-450438257](https://www.linkedin.com/in/guillaume-constanty-450438257/)
+  LinkedIn: [Guillaume Constanty](https://www.linkedin.com/in/guillaumecntty/)
 - **Rayan Chebicheb** - Co-fondateur  
-  LinkedIn: [rayan-chebicheb-66602a188](https://www.linkedin.com/in/rayan-chebicheb-66602a188/)
+  LinkedIn: [Rayan Chebicheb](https://www.linkedin.com/in/rayan-chebicheb-66602a188/)
 
 ## Nous contacter / Contact us
 
