@@ -3,7 +3,7 @@
 
 # Bienvenue chez Rootage
 
-**L'INGENIERIE AU SERVICE DE VOS AMBITIONS.**
+**LDonnez à vos ambitions la TECH qu’elles méritent**
 
 Rootage conçoit des solutions logicielles modernes pour combler le fosse entre l'ingenierie complexe et les experiences utilisateur elegantes.
 
@@ -48,7 +48,7 @@ Rootage builds modern software solutions that bridge complex engineering and ele
 
 - Site web / Website: [rootage.fr](https://rootage.fr/)
 - Formulaire de contact / Contact form: [rootage.fr/#contact](https://rootage.fr/#contact)
-- Email: [johan.ledoux@rootage.fr](mailto:johan.ledoux@rootage.fr)
+- Email: [bonjour@rootage.fr](mailto:bonjour@rootage.fr)
 - LinkedIn entreprise / Company LinkedIn: [rootage](https://www.linkedin.com/company/rootage/)
 
 ## Contribuer / Contribute
